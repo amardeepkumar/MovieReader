@@ -8,7 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.CursorAdapter;
 
-import com.tju.moviereader.MovieDto;
+import com.tju.moviereader.dto.MovieDto;
 import com.tju.moviereader.R;
 import com.tju.moviereader.databinding.ItemMovieListBinding;
 

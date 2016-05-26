@@ -1,4 +1,4 @@
-package com.tju.moviereader;
+package com.tju.moviereader.dto;
 
 /**
  * Created by amardeep.kumar on 5/24/2016.

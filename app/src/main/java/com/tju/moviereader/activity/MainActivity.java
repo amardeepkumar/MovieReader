@@ -1,4 +1,4 @@
-package com.tju.moviereader;
+package com.tju.moviereader.activity;
 
 import android.database.Cursor;
 import android.databinding.DataBindingUtil;
@@ -7,6 +7,8 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.CursorAdapter;
 
+import com.tju.moviereader.CustomAsyncQueryHandler;
+import com.tju.moviereader.R;
 import com.tju.moviereader.adapter.MovieAdapter;
 import com.tju.moviereader.databinding.ActivityMainBinding;
 
